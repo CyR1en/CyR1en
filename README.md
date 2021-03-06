@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyR1en/CyR1en/main/Banner.png"/>
+  <img src="https://github.com/CyR1en/CyR1en/blob/main/Banner2.png"/>
 </div>
