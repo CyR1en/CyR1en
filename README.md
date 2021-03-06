@@ -3,3 +3,5 @@
 </div>
 
 Website: [CyR1en.com](https://cyr1en.com) | Spigot: [cyr1en](https://www.spigotmc.org/resources/authors/cyr1en.284867/) | Instagram: [cyr1en](https://www.instagram.com/cyr1en/) | Sponsor: [Lithium Hosting](https://lithiumhosting.com/)
+
+Currently pursuing a bachelors degree in computer science at University of Colorado Denver.
