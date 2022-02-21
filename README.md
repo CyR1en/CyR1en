@@ -5,3 +5,5 @@
 Website: [CyR1en.com](https://cyr1en.com) | Spigot: [cyr1en](https://www.spigotmc.org/resources/authors/cyr1en.284867/) | Instagram: [cyr1en](https://www.instagram.com/cyr1en/) | Sponsor: [Lithium Hosting](https://lithiumhosting.com/)
 
 Currently pursuing a bachelors degree in computer science at the University of Colorado Denver.
+
+![CyR1en's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyR1en&show_icons=true&theme=dracula)
