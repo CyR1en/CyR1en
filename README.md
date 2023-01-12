@@ -6,4 +6,3 @@ Website: [CyR1en.com](https://cyr1en.com) | Spigot: [cyr1en](https://www.spigotm
 
 Currently pursuing a bachelors degree in computer science at the University of Colorado Denver.
 
-![CyR1en's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyR1en&show_icons=true&theme=dracula)
